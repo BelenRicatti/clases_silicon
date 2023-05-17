@@ -1,4 +1,4 @@
 let variable = "ta ta ta ta";
 let variable_2 = 5;
 
-var otra_variable
+var otra_variable = "otro contenido agregado por lucas"
