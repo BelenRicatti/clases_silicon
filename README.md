@@ -1,4 +1,3 @@
-# clases_silicon
+# clases_silicono   
 
-esta es una nueva linea de codigo
-esto es una nueva linea de codigo   
+este problema fue resuelto, ya no quiero mas seguir programando.
