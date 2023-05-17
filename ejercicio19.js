@@ -1,0 +1,1 @@
+let variable = "ta ta ta ta";
